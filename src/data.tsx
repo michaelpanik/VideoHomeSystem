@@ -9,10 +9,11 @@ import {
 
 export const data = {
   title: "Video Home System",
-  bio: "Lorem ipsum",
+  handle: "@videohomesystemmusic",
+  bio: "In your heart, in your home.",
 };
 
-const iconStyle = { maxWidth: "2em", maxHeight: "2em" };
+const iconStyle = { maxWidth: "1.5em", maxHeight: "1.5em" };
 
 export const links: Link[] = [
   {
