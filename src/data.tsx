@@ -29,7 +29,7 @@ export const links: Link[] = [
   {
     title: "Photos, videos, fun synth jams on Instagram",
     icon: <Instagram style={iconStyle} />,
-    url: "https://instagram.com/vhs_music",
+    url: "https://instagram.com/videohomesystemmusic",
   },
   {
     title: "Email for booking, promotion, hatemail, whatever",
@@ -39,6 +39,6 @@ export const links: Link[] = [
   {
     title: "Our benevolent overlords at Great Set Record Collective",
     icon: <Record style={iconStyle} />,
-    url: "https://greatsetrecords.com/",
+    url: "https://greatsetrecords.com/video-home-system",
   },
 ];
